@@ -5,8 +5,8 @@ import {
   ExpansionPanelSummary,
   Grid,
   Divider,
-} from '@material-ui/core';
-import { makeStyles } from '@material-ui/core/styles';
+} from '@mui/material';
+import { makeStyles } from '@mui/styles';
 import React from 'react';
 const usePanelStyles = makeStyles((_) => ({
   root: {
